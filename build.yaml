@@ -1,0 +1,8 @@
+include:
+  # Прошивка для беспроводного контроллера nice_nano_v2
+  - shield: Scotto40
+    board: nice_nano_v2
+
+  # Прошивка для проводного контроллера promicro_rp2040
+  - shield: Scotto40
+    board: promicro_rp2040
