@@ -1,2 +1,2 @@
 config SHIELD_Scotto40
-    def_bool $(shields_list_contains,my_keyboard)
+    def_bool $(shields_list_contains,scotto40)
