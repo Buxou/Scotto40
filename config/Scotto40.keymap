@@ -55,7 +55,7 @@
             bindings = <
   &sys_reset  &bootloader  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
   &trans      &trans       &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-  &trans      &trans       &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp UNDERSCORE
+  &none       &trans       &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp UNDERSCORE
   &trans      &trans       &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
